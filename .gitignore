@@ -1,0 +1,5 @@
+# Splunk-generated passwords
+passwords.conf
+splunk.secret
+local.meta
+TA-proofpoint-vap/local/

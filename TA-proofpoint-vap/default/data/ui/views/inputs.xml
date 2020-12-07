@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<view template="TA-proofpoint-vap:templates/base.html" type="html" isDashboard="False">
+    <label>Inputs</label>
+</view>
